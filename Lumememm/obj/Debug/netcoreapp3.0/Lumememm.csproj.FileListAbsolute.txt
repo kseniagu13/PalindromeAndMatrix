@@ -1,0 +1,10 @@
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/Lumememm/bin/Debug/netcoreapp3.0/Lumememm
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/Lumememm/bin/Debug/netcoreapp3.0/Lumememm.deps.json
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/Lumememm/bin/Debug/netcoreapp3.0/Lumememm.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/Lumememm/bin/Debug/netcoreapp3.0/Lumememm.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/Lumememm/bin/Debug/netcoreapp3.0/Lumememm.dll
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/Lumememm/bin/Debug/netcoreapp3.0/Lumememm.pdb
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/Lumememm/obj/Debug/netcoreapp3.0/Lumememm.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/Lumememm/obj/Debug/netcoreapp3.0/Lumememm.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/Lumememm/obj/Debug/netcoreapp3.0/Lumememm.dll
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/Lumememm/obj/Debug/netcoreapp3.0/Lumememm.pdb

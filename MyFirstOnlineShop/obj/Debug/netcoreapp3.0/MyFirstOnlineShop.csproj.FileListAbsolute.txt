@@ -1,0 +1,11 @@
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/MyFirstOnlineShop/bin/Debug/netcoreapp3.0/MyFirstOnlineShop
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/MyFirstOnlineShop/bin/Debug/netcoreapp3.0/MyFirstOnlineShop.deps.json
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/MyFirstOnlineShop/bin/Debug/netcoreapp3.0/MyFirstOnlineShop.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/MyFirstOnlineShop/bin/Debug/netcoreapp3.0/MyFirstOnlineShop.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/MyFirstOnlineShop/bin/Debug/netcoreapp3.0/MyFirstOnlineShop.dll
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/MyFirstOnlineShop/bin/Debug/netcoreapp3.0/MyFirstOnlineShop.pdb
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/MyFirstOnlineShop/obj/Debug/netcoreapp3.0/MyFirstOnlineShop.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/MyFirstOnlineShop/obj/Debug/netcoreapp3.0/MyFirstOnlineShop.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/MyFirstOnlineShop/obj/Debug/netcoreapp3.0/MyFirstOnlineShop.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/MyFirstOnlineShop/obj/Debug/netcoreapp3.0/MyFirstOnlineShop.dll
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/MyFirstOnlineShop/obj/Debug/netcoreapp3.0/MyFirstOnlineShop.pdb

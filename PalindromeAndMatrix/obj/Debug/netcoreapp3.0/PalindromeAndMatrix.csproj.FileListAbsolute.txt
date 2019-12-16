@@ -1,0 +1,11 @@
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PalindromeAndMatrix/bin/Debug/netcoreapp3.0/PalindromeAndMatrix
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PalindromeAndMatrix/bin/Debug/netcoreapp3.0/PalindromeAndMatrix.deps.json
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PalindromeAndMatrix/bin/Debug/netcoreapp3.0/PalindromeAndMatrix.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PalindromeAndMatrix/bin/Debug/netcoreapp3.0/PalindromeAndMatrix.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PalindromeAndMatrix/bin/Debug/netcoreapp3.0/PalindromeAndMatrix.dll
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PalindromeAndMatrix/bin/Debug/netcoreapp3.0/PalindromeAndMatrix.pdb
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PalindromeAndMatrix/obj/Debug/netcoreapp3.0/PalindromeAndMatrix.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PalindromeAndMatrix/obj/Debug/netcoreapp3.0/PalindromeAndMatrix.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PalindromeAndMatrix/obj/Debug/netcoreapp3.0/PalindromeAndMatrix.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PalindromeAndMatrix/obj/Debug/netcoreapp3.0/PalindromeAndMatrix.dll
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PalindromeAndMatrix/obj/Debug/netcoreapp3.0/PalindromeAndMatrix.pdb

@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{0AFB3F0B-6A0A-40DB-AF27-3B8F4536579C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Matrix PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstOnlineShop/ShoppingCart.cs">
+    <Files>
+      <File FileName="PalindromeAndMatrix/Program.cs" Line="13" Column="14" />
+      <File FileName="Matrix/Program.cs" />
+      <File FileName="Lumememm/Program.cs" />
+      <File FileName="MyFirstOnlineShop/Program.cs" />
+      <File FileName="MyFirstOnlineShop/Article.cs" />
+      <File FileName="MyFirstOnlineShop/Warehouse.cs" />
+      <File FileName="MyFirstOnlineShop/Item.cs" />
+      <File FileName="MyFirstOnlineShop/ShoppingCart.cs" Line="11" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PalindromeAndMatrix" expanded="True">
+            <Node name="Lumememm" expanded="True" />
+            <Node name="Matrix" expanded="True" />
+            <Node name="MyFirstOnlineShop" expanded="True">
+              <Node name="Article.cs" selected="True" />
+            </Node>
+            <Node name="PalindromeAndMatrix" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lumememm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MyFirstOnlineShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PalindromeAndMatrix PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
