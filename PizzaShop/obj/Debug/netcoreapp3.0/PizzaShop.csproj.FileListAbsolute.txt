@@ -1,0 +1,11 @@
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PizzaShop/bin/Debug/netcoreapp3.0/PizzaShop
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PizzaShop/bin/Debug/netcoreapp3.0/PizzaShop.deps.json
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PizzaShop/bin/Debug/netcoreapp3.0/PizzaShop.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PizzaShop/bin/Debug/netcoreapp3.0/PizzaShop.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PizzaShop/bin/Debug/netcoreapp3.0/PizzaShop.dll
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PizzaShop/bin/Debug/netcoreapp3.0/PizzaShop.pdb
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PizzaShop/obj/Debug/netcoreapp3.0/PizzaShop.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PizzaShop/obj/Debug/netcoreapp3.0/PizzaShop.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PizzaShop/obj/Debug/netcoreapp3.0/PizzaShop.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PizzaShop/obj/Debug/netcoreapp3.0/PizzaShop.dll
+/Users/kseniagustsenko/Desktop/PalindromeAndMatrix/PizzaShop/obj/Debug/netcoreapp3.0/PizzaShop.pdb

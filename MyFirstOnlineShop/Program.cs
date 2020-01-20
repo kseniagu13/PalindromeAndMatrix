@@ -26,7 +26,14 @@ namespace MyFirstOnlineShop
                     Console.WriteLine("Enter the id of product to remove from the shopping cart:");
                     int itemIdRemove = int.Parse(Console.ReadLine());
                     shoppingCart.RemoveFromShoppingCart(itemIdRemove);
+                }else if (userInput =="confirm") //kui lisame confirm, siis nöitab meie ostukorvi Total
+                {
+                    shoppingCart.PrintTotal();
+                    Console.WriteLine($"Shopping cart total: {shoppingCart.Total}");
+                    break; //lähme programmist välja kui inimene confirmib
+
                 }
+
             }
            
 
