@@ -25,6 +25,7 @@ namespace PizzaShop
             shoppingcart.Add(newItem); //lisame valitud tooted ostukorvi
            
         }
+        
 
         public void RemoveFromShoppingCart(int id)
         {
@@ -41,18 +42,18 @@ namespace PizzaShop
         }
         public void PrintShoppingCart()
         {
-            if (shoppingcart.Count == 0) //vaatame kas shopping cart on tühi või mtite
+           /* if (shoppingcart.Count == 0) //vaatame kas shopping cart on tühi või mtite
             {
                 Console.WriteLine("shopping Cart is empty.");
             }
             else
-            {
+            {*/
                 foreach (MyItems myitems in shoppingcart)
                 {
                     myitems.PrintItem();
                     
                 }
-            }
+            //}
         }
 
         public void PrintTotal()
@@ -66,7 +67,7 @@ namespace PizzaShop
         {
             foreach (MyItems myitems in shoppingcart)
             {
-                total += myitems.PizzaTypeTotal();
+                total += myitems.CalculatePizzaDough();
             }
         }*/
       
@@ -74,19 +75,19 @@ namespace PizzaShop
 
         public void PrintShoppingCartTotal()
         {
-            if (shoppingcart.Count == 0) //vaatame kas shopping cart on tühi või mtite
+           /* if (shoppingcart.Count == 0) //vaatame kas shopping cart on tühi või mtite
             {
                 Console.WriteLine("shopping Cart is empty.");
             }
             else
-            {
+            {*/
                 foreach (MyItems myitems in shoppingcart)
                 {
                     myitems.PrintItemTotal();
                     /*Console.WriteLine($"{item.Article}"); //tagastab kogu getteri sisu, mis on pandud Item all
                                                           //Console.WriteLine($"{item.CalculateItemTotal()}");*/
                 }
-            }
+            //}
         }
 
 

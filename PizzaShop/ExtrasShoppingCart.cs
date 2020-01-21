@@ -39,18 +39,18 @@ namespace PizzaShop
         }
         public void PrintShoppingCartExtras()
         {
-            if (extraShoppingcart.Count == 0) //vaatame kas shopping cart on tühi või mtite
+           /* if (extraShoppingcart.Count == 0) //vaatame kas shopping cart on tühi või mtite
             {
                 Console.WriteLine("shopping Cart is empty.");
             }
             else
-            {
+            {*/
                 foreach (MyItemsExtra myitemsextra in extraShoppingcart)
                 {
                     myitemsextra.PrintItemExtras();
                  
                 }
-            }
+            //}
         }
 
         public void PrintTotal()
@@ -63,18 +63,18 @@ namespace PizzaShop
 
         public void PrintShoppingCartExtrasTotal()
         {
-            if (extraShoppingcart.Count == 0) //vaatame kas shopping cart on tühi või mtite
+           /* if (extraShoppingcart.Count == 0) //vaatame kas shopping cart on tühi või mtite
             {
                 Console.WriteLine("shopping Cart is empty.");
             }
             else
-            {
+            {*/
                 foreach (MyItemsExtra myitemsextra in extraShoppingcart)
                 {
                     myitemsextra.PrintItemTotalExtras();
                     
                 }
-            }
+            //}
         }
 
     }

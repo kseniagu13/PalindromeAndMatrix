@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{87AEEC15-1213-49A2-AD82-9D0713ABE0F8}|Default">
   <MonoDevelop.Ide.ItemProperties.Matrix PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaShop/Menu.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaShop/Program.cs">
     <Files>
-      <File FileName="PizzaShop/Program.cs" Line="89" Column="61" />
-      <File FileName="PizzaShop/Menu.cs" Line="4" Column="20" />
-      <File FileName="PizzaShop/Pizza.cs" Line="1" Column="1" />
-      <File FileName="PizzaShop/MyItems.cs" Line="33" Column="1" />
-      <File FileName="PizzaShop/MyItemsExtra.cs" Line="40" Column="1" />
-      <File FileName="PizzaShop/Extras.cs" Line="1" Column="1" />
-      <File FileName="PizzaShop/MyShoppingCart.cs" Line="1" Column="1" />
+      <File FileName="PizzaShop/Program.cs" Line="21" Column="62" />
+      <File FileName="PizzaShop/Menu.cs" />
+      <File FileName="PizzaShop/Pizza.cs" />
+      <File FileName="PizzaShop/MyItems.cs" />
+      <File FileName="PizzaShop/MyItemsExtra.cs" />
+      <File FileName="PizzaShop/Extras.cs" />
+      <File FileName="PizzaShop/MyShoppingCart.cs" />
+      <File FileName="PizzaShop/ExtrasShoppingCart.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,7 +20,7 @@
             <Node name="MyFirstOnlineShop" expanded="True" />
             <Node name="PalindromeAndMatrix" expanded="True" />
             <Node name="PizzaShop" expanded="True">
-              <Node name="ExtraMenu.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

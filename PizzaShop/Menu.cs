@@ -20,6 +20,8 @@ namespace PizzaShop
             InStock.Add(mafioso);
             Pizza romana = new Pizza(5, "romana", "tomato, cheese, bacon, pineapple", 7.6);
             InStock.Add(romana);
+            Pizza fantasyPizza = new Pizza (6,"fantasy Pizza", " ", 3);
+            InStock.Add(fantasyPizza);
 
         }
 

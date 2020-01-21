@@ -30,6 +30,10 @@ namespace PizzaShop
             return pizza.Price * quantity;
 
         }
+       /* public double CalculatePizzaDough()
+        {
+            return (pizza.Price+1) * quantity;
+        }*/
 
         public void PrintItemTotal()
         {
